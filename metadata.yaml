@@ -1,0 +1,29 @@
+_repo: The-Barton-Experiment_53031
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Habberton, John
+    birthdate: 1842
+    deathdate: 1921
+    gutenberg_agent_id: '1427'
+    url: http://www.gutenberg.org/2009/agents/1427
+    wikipedia: http://en.wikipedia.org/wiki/John_Habberton
+description: ''
+gutenberg_issued: '2016-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Alcoholism -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Evangelistic work -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Reformers -- Fiction'
+- GITenberg
+title: The Barton Experiment
+url: http://www.gutenberg.org/ebooks/53031
